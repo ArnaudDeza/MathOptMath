@@ -39,3 +39,4 @@ plots/
 
 # cursor
 .cursor/
+*.mdc
