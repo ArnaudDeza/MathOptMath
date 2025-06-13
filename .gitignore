@@ -36,3 +36,6 @@ plots/
 *.csv
 *.png
 *.gif 
+
+# cursor
+.cursor/
